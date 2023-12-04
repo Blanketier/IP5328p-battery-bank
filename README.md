@@ -1,5 +1,7 @@
-![prototype picture](img/IMG_9238.jpg)
 # IP5328p-battery-bank
+
+![prototype picture](img/IMG_9238.jpg)
+
 This is a small modular (meaning it can take any capacity 4.2v lion/lipo battery) 
 I have made the version one board and gave it to a person to use for a two month test. The main issues were the inductor hits Isat under max load (18w) and drops into the audible range.
 The version 1.1 board *should* fix this by using a much beefier inductor and it likely is overkill board version 1.2 will likely use a smaller inductor then v1.1 but will be larger than 1.0
