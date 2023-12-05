@@ -8,3 +8,4 @@ The version 1.1 board *should* fix this by using a much beefier inductor and it 
 This is a battery bank that has two type a outputs a type c combo in and out and an input only micro-b port on the side.
 Soon I will upload a case that omits the cutout for the micro-b port since it is purely redundant.
 The case is made for use with three 18650 Li-ion cells.
+![v1.0 board](img/IMG_9239.jpg)
